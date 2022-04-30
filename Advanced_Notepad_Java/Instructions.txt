@@ -1,0 +1,22 @@
+use cmd and make sure you have JDK 8 set in your environment variable else it will show an error.
+in ../Advanced_Notepad_Java/tabbednotepad open cmd
+run javac *.java
+/* ignore the warnings */
+then java TabbedNotepad
+/* program will load */
+main class is TabbedNotepad.java which has GUI and its components
+rest classes are for sub-components and FontAction and ForeBackColorAction files are for styling of the editor
+as every editor allows user to customize their editor as well
+
+Requirements
+- the class Highlighter in Test.java  is nested class line number 35
+
+- line 138 shows usage of lambda expression in TabbedNotepad.java
+
+- line 842 shows usage of implemeting interface hence polymorphism can be seen here
+
+Additional:
+
+For cmd commands Runtime.exec command is used where javac and java both commands were to be handled separately 
+due to windows architecture 
+
