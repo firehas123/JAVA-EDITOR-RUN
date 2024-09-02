@@ -28,4 +28,4 @@ Here’s a short [video demonstration](media/demo.mp4) of the project setup and 
 - **Setup:** Watch how to clone and build the project.
 - **Key Features:** See the core functionality in action.
 
-*If the video doesn't play, you can view it on [YouTube](https://youtu.be/3I3aIdJm-Is).*
+*If the video doesn't play, you can view it on [YouTube](https://youtu.be/mkjdhJLrhwY).*
