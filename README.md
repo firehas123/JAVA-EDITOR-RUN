@@ -22,3 +22,10 @@ Java Editor Runner is a development environment aimed at providing Java develope
 - Launch the Java Editor Runner to start coding.
 - Use the built-in tools to write, edit, and execute Java code.
 - Utilize the console for real-time output and debugging.
+
+## Project Demonstration
+Here’s a short [video demonstration](media/setup-demo.mp4) of the project setup and key features:
+- **Setup:** Watch how to clone and build the project.
+- **Key Features:** See the core functionality in action.
+
+*If the video doesn't play, you can view it on [YouTube](https://youtu.be/3I3aIdJm-Is).*
